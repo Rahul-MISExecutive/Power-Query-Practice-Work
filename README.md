@@ -27,4 +27,11 @@ I will continue to update this repository with new practice files and projects a
 
 ---
 
-Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/in/rahulsingh1508032004/)] if you have any questions or feedback.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahulsingh1508032004/) if you have any questions or feedback.
+
+---
+
+## 🔗 Author
+
+**Rahul Singh**  
+Entry-Level MIS Executive
